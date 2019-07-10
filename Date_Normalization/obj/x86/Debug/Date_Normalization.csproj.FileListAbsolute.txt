@@ -1,0 +1,17 @@
+c:\users\family\documents\visual studio 2010\Projects\Date_Normalization\Date_Normalization\bin\Debug\Date_Normalization.exe
+c:\users\family\documents\visual studio 2010\Projects\Date_Normalization\Date_Normalization\bin\Debug\Date_Normalization.pdb
+c:\users\family\documents\visual studio 2010\Projects\Date_Normalization\Date_Normalization\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\family\documents\visual studio 2010\Projects\Date_Normalization\Date_Normalization\obj\x86\Debug\Date_Normalization.Properties.Resources.resources
+c:\users\family\documents\visual studio 2010\Projects\Date_Normalization\Date_Normalization\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\family\documents\visual studio 2010\Projects\Date_Normalization\Date_Normalization\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\family\documents\visual studio 2010\Projects\Date_Normalization\Date_Normalization\obj\x86\Debug\Date_Normalization.exe
+c:\users\family\documents\visual studio 2010\Projects\Date_Normalization\Date_Normalization\obj\x86\Debug\Date_Normalization.pdb
+c:\users\family\documents\visual studio 2010\Projects\Date_Normalization\Date_Normalization\obj\x86\Debug\Date_Normalization.Form1.resources
+C:\Users\Family_2\Documents\Visual Studio 2012\Projects\Date_Normalization\Date_Normalization\obj\x86\Debug\Date_Normalization.exe
+C:\Users\Family_2\Documents\Visual Studio 2012\Projects\Date_Normalization\Date_Normalization\obj\x86\Debug\Date_Normalization.pdb
+C:\Users\Family_2\Documents\Visual Studio 2012\Projects\Date_Normalization\Date_Normalization\bin\Debug\Date_Normalization.exe
+C:\Users\Family_2\Documents\Visual Studio 2012\Projects\Date_Normalization\Date_Normalization\bin\Debug\Date_Normalization.pdb
+C:\Users\Family_2\Documents\Visual Studio 2012\Projects\Date_Normalization\Date_Normalization\obj\x86\Debug\Date_Normalization.csprojResolveAssemblyReference.cache
+C:\Users\Family_2\Documents\Visual Studio 2012\Projects\Date_Normalization\Date_Normalization\obj\x86\Debug\Date_Normalization.Form1.resources
+C:\Users\Family_2\Documents\Visual Studio 2012\Projects\Date_Normalization\Date_Normalization\obj\x86\Debug\Date_Normalization.Properties.Resources.resources
+C:\Users\Family_2\Documents\Visual Studio 2012\Projects\Date_Normalization\Date_Normalization\obj\x86\Debug\Date_Normalization.csproj.GenerateResource.Cache
